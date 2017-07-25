@@ -1,0 +1,6 @@
+[submodule "CodeIgniter"]
+	path = CodeIgniter
+	url = git@github.com:invitecomm/CodeIgniter.git
+[submodule "HMVC"]
+	path = HMVC
+	url = git@github.com:invitecomm/codeigniter-modular-extensions-hmvc.git
